@@ -1,4 +1,6 @@
 body {
+  /* background-size:cover; */
+  /* background-image:url("https://static.carthrottle.com/workspace/uploads/posts/2016/03/847b6d7224dbaafbe2589ef840d98099.jpg"); */
   text-align: center;
 
 }
@@ -7,7 +9,8 @@ h3 {
   font-size: 3em;
   font-family: 'arial', serif;
   font-family: 'VT323', monospace;
-background-color: rgb(122, 122, 122)
+
+
 }
 
 nav a {
