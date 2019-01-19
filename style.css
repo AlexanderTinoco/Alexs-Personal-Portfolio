@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+
+}
+
+h3 {
+  font-size: 3em;
+  font-family: 'arial', serif;
+  font-family: 'VT323', monospace;
+background-color: rgb(122, 122, 122)
+}
+
+nav a {
+font-family: 'VT323', monospace;
+}
+
+p {
+  border:2px light gray;
+
+}
+
+
+li {
+  padding: 20px 20px 20px 20px;
+}
